@@ -1,5 +1,3 @@
-# easy-UI
-vue3+typescript
 # easy-ui
 
 ## Project setup
